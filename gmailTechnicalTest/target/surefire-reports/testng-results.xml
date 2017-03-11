@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.gmail.technicalTest.GmailTest" duration-ms="48102" started-at="2017-03-11T22:32:14Z" finished-at="2017-03-11T22:33:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="48102" started-at="2017-03-11T22:32:14Z" finished-at="2017-03-11T22:33:02Z">
+      <class name="com.gmail.technicalTest.GmailTest">
+        <test-method status="PASS" signature="setup()" name="setup" is-config="true" duration-ms="12907" started-at="2017-03-11T22:32:14Z" finished-at="2017-03-11T22:32:27Z">
+        </test-method>
+        <test-method status="PASS" signature="Tests()" name="Tests" duration-ms="30997" started-at="2017-03-11T22:32:27Z" finished-at="2017-03-11T22:32:58Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="4186" started-at="2017-03-11T22:32:58Z" finished-at="2017-03-11T22:33:02Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
